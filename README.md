@@ -103,10 +103,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output  :
 ### BUTTON TURNED OFF
- <img src="https://github.com/bharathraj1905/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121490575/3d687011-42f7-43f2-aac3-11f35c906a26" width=475 height=450>
+ <img src="https://github.com/bharathraj1905/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121490575/3d687011-42f7-43f2-aac3-11f35c906a26" width=450 height=450>
  
 ### BUTTON TURNED ON
- <img src="https://github.com/bharathraj1905/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121490575/276f27c4-eaae-43a1-bb44-2d56e5c0831c" width=475 height=450>
+ <img src="https://github.com/bharathraj1905/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121490575/276f27c4-eaae-43a1-bb44-2d56e5c0831c" width=450 height=450>
  
  
 ## Result :
